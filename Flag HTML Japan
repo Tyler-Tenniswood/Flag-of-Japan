@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<head>
+<body>
 <div class="center">
   <div class="flag-container">
     <span class="pole"></span>
@@ -10,3 +13,6 @@
     </span>
   </div>
 </div>
+</body>
+</head>
+</html>
