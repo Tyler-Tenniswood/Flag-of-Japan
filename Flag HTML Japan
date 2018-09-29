@@ -1,0 +1,12 @@
+<div class="center">
+  <div class="flag-container">
+    <span class="pole"></span>
+    <span class="knob"></span>
+    <span class="flag front">
+      <span class="circle"></span>
+    </span>
+    <span class="flag back">
+      <span class="shadow"></span>
+    </span>
+  </div>
+</div>
